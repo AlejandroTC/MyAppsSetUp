@@ -1,0 +1,16 @@
+Doki-Theme: https://doki-theme.unthrottled.io/products/
+
+Settings File content:
+{
+    "workbench.colorTheme": "Lunar Pink",
+    "workbench.iconTheme": "material-icon-theme",
+    "sync.autoDownload": true,
+    "sync.autoUpload": true,
+    "sync.forceDownload": true,
+    "sync.quietSync": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.fontFamily": "'mononoki NF','Hack NF','SauceCodePro Nerd Font','SpaceMono Nerd Font',Consolas, 'Courier New', monospace",
+    "explorer.confirmDelete": false,
+    "editor.fontLigatures": false,
+    "doki.statusbar.name": "AlejandroTC"
+}
